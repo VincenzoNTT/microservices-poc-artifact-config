@@ -1,2 +1,3 @@
-# microservices-poc-artifact-config
-microservices-poc-artifact-config
+# spring-cloud-poc-config
+
+Reporistory di configurazione per il progetto [spring-cloud-poc](https://github.com/coding-jam/spring-cloud-poc)
